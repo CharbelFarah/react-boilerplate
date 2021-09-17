@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "assets": ["./src/assets/*"],
+      "hoc": ["./src/hoc/*"],
+      "hooks": ["./src/hooks/*"],
+      "utils/*": ["./src/utils/*"],
+      "public": ["./src/public/*"],
+      "routes": ["./src/routes/*"],
+      "pages": ["./src/pages/*"],
+      "components": ["./src/components/*"],
+      "middlewares": ["./src/middlewares/*"],
+      "myStore": ["src/myStore/*"]
+    }
+  }
+}
